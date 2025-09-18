@@ -1,12 +1,43 @@
-# React + Vite
+# 🎬 My-Flix
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**My-Flix** is a movie browsing web application built with **JavaScript, React, Tailwind CSS**, and **API integration**.  
+It allows users to explore movies, view details, and discover new content through an intuitive, responsive interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
+- 🔍 **Search & Browse**: Find movies by title or browse trending content.
+- 🎥 **Movie Details**: View information such as release date, genre, rating, and description.
+- 🎨 **Responsive UI**: Built with Tailwind CSS for a clean and mobile-friendly experience.
+- 🌐 **API Integration**: Fetches real-time movie data from a third-party API.
+- ⭐ **Favorites (optional)**: Save your favorite movies for quick access (if implemented).
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+- **React** (UI framework)
+- **JavaScript (ES6+)**
+- **Tailwind CSS** (styling)
+- **Movie API** (e.g., TMDB or OMDb)
+- **Axios / Fetch API** (for requests)
+
+---
+
+## ⚡ Getting Started
+
+### Prerequisites
+- Node.js (v16 or later recommended)
+- npm or yarn
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/my-flix.git
+   cd my-flix
+
+2. Install dependencies 
+   npm install
+   
+4. Start development server
+   npm start
+   Open your browser at http://localhost:3000.
