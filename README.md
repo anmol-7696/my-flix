@@ -36,7 +36,7 @@ It allows users to explore movies, view details, and discover new content throug
    cd my-flix
 
 2. Install dependencies 
-   npm install
+   using npm install
    
 4. Start development server
    npm start
