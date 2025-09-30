@@ -41,3 +41,6 @@ It allows users to explore movies, view details, and discover new content throug
 4. Start development server
    npm start
    Open your browser at http://localhost:3000.
+
+   Project Demo can be viewed following the given URL:
+   https://drive.google.com/file/d/1s0qzL7IY8qVWN2PJgRV-Wn8bDLKXo0GZ/view?usp=sharing
