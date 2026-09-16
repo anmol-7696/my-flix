@@ -32,7 +32,7 @@ It allows users to explore movies, view details, and discover new content throug
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/my-flix.git
+   git clone https://github.com/anmol-7696/my-flix.git
    cd my-flix
 
 2. Install dependencies 
